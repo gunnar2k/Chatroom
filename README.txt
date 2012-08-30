@@ -8,6 +8,8 @@ Requires node.js, express, socket.io:
 ./Chatrooms_skalert
 ====================
 
+Scales Chatroom across multiple processes/servers.
+
 Requires all the above + Redis (run redis server locally)
 
   npm install redis
